@@ -1,0 +1,1 @@
+a random game where user will enter random unknown character and program will generate a 2-3 lines of story on those characters
